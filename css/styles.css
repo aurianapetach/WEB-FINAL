@@ -1,0 +1,84 @@
+.navbar {
+	height: 55px;
+	background-color: #292b2c;
+}
+
+.nav-link {
+	color:#7f8e95;
+}
+
+.nav-link a:active {
+	color: white;
+}
+
+.navbar-brand {
+	color: white;
+}
+
+.container {
+	height: 440px;
+	background-color: #d9534f;
+	width: 100%;
+}
+
+.container h1, h2 {
+	color: white;
+}
+
+.text {
+	margin-left: 175px;
+}
+
+.text h1 {
+	font-size: 150px;
+}
+.text h2 {
+	font-size: 100px;
+}
+
+
+.container2 {
+	height: 210px;
+	background-color: #292b2c;
+	width: 100%;
+}
+
+
+.container2 h2 {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+.imagecontainer {
+	height:1385px;
+	background-color: #f7f7f7;
+}
+
+.dogs {
+	text-align: center;
+	padding-top: 60px;
+}
+
+.blackmovie {
+	padding-top: 30px;
+	height:690px;
+	background-color: #000;
+	text-align: center;
+}
+
+
+.blackmovie h1{
+	color:white;
+}
+
+footer {
+	padding-top: 20px;
+	height:225px;
+	background-color:#d9534f;
+	color:white;
+	text-align: center;
+}
+
